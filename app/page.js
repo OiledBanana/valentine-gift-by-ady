@@ -1,4 +1,4 @@
-cat > app/page.js << 'ENDOFFILE'
+
 "use client";
 import { useState, useEffect } from 'react';
 
